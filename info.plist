@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>fhalr@ngynazbq.bet</string>
+	<key>contactName</key>
+	<string>Gerson Sunyé</string>
+	<key>description</key>
+	<string>Support for the Eclipse Java Emitter Template language.</string>
+	<key>name</key>
+	<string>JET</string>
+	<key>uuid</key>
+	<string>78D59517-B5A5-4027-8BC2-F97924241E82</string>
+</dict>
+</plist>
